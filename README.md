@@ -29,4 +29,4 @@
 |Math AI         |Mathematical AI Assistant for Many Mathematical Problems       |[Check](https://applk.netlify.app/) |
 |Eduport         |LMS Designed For Students with courses and a Ed community      |Currently Unavailable               |
 
-[![](https://visitcount.itsvg.in/api?id=banishjeffi&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=banishjeffi&label=Our%20Live%20Visitors&color=12&icon=0&pretty=true)
