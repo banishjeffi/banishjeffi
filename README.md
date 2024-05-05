@@ -21,12 +21,12 @@
 ### 💻 Others 💻:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
 
-## 🚀 My Projects 🚀:
+# 🚀 My Projects 🚀:
 
-|Name            |Description                    |Link                         |
-|----------------|-------------------------------|-----------------------------|
-|Education Eating|It is a Mobile App designed tp have a math solving fuctionality|[Check](https://www,banish.in)|
-|Math AI         |Mathematical AI Assistant for Many Mathematical Problems        |[Check](https://applk.netlify.app/)|
-|Eduport         |LMS Designed For Students with courses and a Ed community      |Currently Unavailable|
+|Name            |Description                                                    |Link                                |
+|----------------|---------------------------------------------------------------|------------------------------------|
+|Education Eating|It is a Mobile App designed tp have a math solving fuctionality|[Check](https://www,banish.in)      |
+|Math AI         |Mathematical AI Assistant for Many Mathematical Problems       |[Check](https://applk.netlify.app/) |
+|Eduport         |LMS Designed For Students with courses and a Ed community      |Currently Unavailable               |
 
 [![](https://visitcount.itsvg.in/api?id=banishjeffi&icon=0&color=0)](https://visitcount.itsvg.in)
