@@ -27,7 +27,7 @@
 |Eduport         |LMS Designed For Students with courses and a Ed community      |Currently Unavailable               |
 |FaceDetection         |_detects faces in real-time using the Haar Cascade Classifier_      |[Check](https://github.com/banishjeffi/FaceDetection)               |
 |Moving Object Detection          |highlighting moving objects  when motion is detected.      |[Ckeck](https://github.com/banishjeffi/Moving-Object-Detection)              |
-|Object Detection based on color         |LMS Designed For Students with courses and a Ed community      |[check](https://github.com/banishjeffi/Object-Detection-based-on-color)              |
+|Object Tracking         |Tracks Object based on color      |[check](https://github.com/banishjeffi/Object-Tracking)              |
 |Emotion Recognition         |processes each frame to recognize facial emotions using the facial_emotion_recognition library      |[Check](https://github.com/banishjeffi/Emotion-Recognition)              |
 |Object-Detection         |Object Detection using MobileNet SSD model     |[check](https://github.com/banishjeffi/Object-Detection)               |
 
