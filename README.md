@@ -22,8 +22,8 @@
 
 |Name            |Description                                                    |Link                                |
 |----------------|---------------------------------------------------------------|------------------------------------|
-|Education Eating|It is a Mobile App designed tp have a math solving fuctionality|[Check](https://www,banish.in)      |
-|Math AI         |Mathematical AI Assistant for Many Mathematical Problems       |[Check](https://applk.netlify.app/) |
+|Education Eating|It is a Mobile App designed tp have a math solving fuctionality|[Check](https://applk.netlify.app/)      |
+|Math AI         |Mathematical AI Assistant for Many Mathematical Problems       |[Check](https://math-ai.streamlit.app/) |
 |Eduport         |LMS Designed For Students with courses and a Ed community      |Currently Unavailable               |
 |FaceDetection         |_detects faces in real-time using the Haar Cascade Classifier_      |[Check](https://github.com/banishjeffi/FaceDetection)               |
 |Moving Object Detection          |highlighting moving objects  when motion is detected.      |[Ckeck](https://github.com/banishjeffi/Moving-Object-Detection)              |
