@@ -18,7 +18,7 @@
 ### 💻 Others 💻:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
 
-# 🚀 My Projects 🚀:
+# 🚀 My Projects:
 
 |Name            |Description                                                    |Link                                |
 |----------------|---------------------------------------------------------------|------------------------------------|
